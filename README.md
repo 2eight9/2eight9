@@ -34,11 +34,9 @@
 </div>
 
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=2eight9&theme=tokyonight&no-bg=true&margin-w=15&column=4" width="100%" />
-</p>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=2eight9&label=PROFILE%20VIEWS&color=00d1ff&style=flat-square" />
+</div>
 ---
 
 ### 🌐 Connectivity
