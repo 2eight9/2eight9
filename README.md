@@ -15,6 +15,16 @@
 
 ---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=2eight9&label=PROFILE%20VIEWS&color=00d1ff&style=flat-square" />
+</div>
+
+<p align="center">
+  <a href="https://info.flagcounter.com/8m4p">
+    <img src="https://s11.flagcounter.com/mini/8m4p/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0">
+  </a>
+</p>
+
 ### 🛠️ Technologies & Ecosystem
 
 <p align="left">
@@ -33,10 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2eight9&layout=compact&theme=tokyonight&border_radius=5&hide_border=true" height="165" />
 </div>
 
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=2eight9&label=PROFILE%20VIEWS&color=00d1ff&style=flat-square" />
-</div>
 ---
 
 ### 🌐 Connectivity
